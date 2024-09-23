@@ -25,7 +25,3 @@ motivational_sentences = [
 
 def give_me_energy():
     print(random.choice(motivational_sentences))
-
-
-
-print('import success')
